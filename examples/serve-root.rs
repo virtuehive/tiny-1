@@ -3,7 +3,7 @@ use std::fs;
 use ascii::AsciiString;
 
 extern crate ascii;
-extern crate tiny_http;
+extern crate tiny_one;
 
 fn get_content_type(path: &Path) -> &'static str {
     let extension = match path.extension() {

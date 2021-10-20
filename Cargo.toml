@@ -1,5 +1,5 @@
 [package]
-name = "tiny_1"
+name = "tiny_one"
 version = "0.7.0"
 authors = ["pierre.krieger1708@gmail.com",
            "Corey Farwell <coreyf@rwell.org>"]

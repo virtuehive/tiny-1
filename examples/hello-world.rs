@@ -1,4 +1,4 @@
-extern crate tiny_http;
+extern crate tiny_one;
 
 use std::sync::Arc;
 use std::thread;

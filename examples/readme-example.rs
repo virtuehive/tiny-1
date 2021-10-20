@@ -1,4 +1,4 @@
-extern crate tiny_http;
+extern crate tiny_one;
 
 fn main() {
     use tiny_http::{Server, Response};

@@ -1,13 +1,13 @@
 [package]
 name = "tiny_one"
-version = "0.7.0"
-authors = ["pierre.krieger1708@gmail.com",
-           "Corey Farwell <coreyf@rwell.org>"]
-description = "Low level HTTP server library"
-documentation = "https://tiny-http.github.io/tiny-http/tiny_http/index.html"
+version = "0.9.0"
+authors = ["puiuiui@gmail.com",
+           "uiuiH <uiui@jiuy.org>"]
+description = "Low level HTTP server "
+documentation = "https://tiny-one.github.io/tiny-one/index.html"
 keywords = ["http", "server", "web"]
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/tiny-1/tiny-1"
+repository = "https://github.com/virtuehive/tiny-one"
 
 [features]
 default = []

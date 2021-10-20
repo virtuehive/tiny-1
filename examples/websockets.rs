@@ -1,4 +1,4 @@
-extern crate tiny_http;
+extern crate tiny_one;
 extern crate rustc_serialize;
 extern crate sha1;
 
